@@ -1,4 +1,4 @@
-# Portfolio_language
+# Name classifier
 Used a Recurrent Neural network to classify last names into one of eighteen languages of origin
 <br>
 Used a txt file to read in the words from each of the 18 languages of origin.
